@@ -1,4 +1,4 @@
-# credit_card_fraud
+# Credit Card Fraud
 
 The objective of the project is to understand the Frauds in Credit Card Transactions. 
 
